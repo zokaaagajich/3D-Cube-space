@@ -1,4 +1,4 @@
-# RG125-3d-cube-space
+# 3d-cube-space
 3D cube space sa razlicitim animacijama.
 
 ![](cubess.gif)
