@@ -1,8 +1,7 @@
 # RG125-3d-cube-space
 3D cube space sa razlicitim animacijama.
 
-## Screenshot
-![Cubes](https://raw.githubusercontent.com/MATF-RG17/RG125-3d-cube-space/master/screenshots/Screenshot2018-01-06.png)
+![](cubess.gif)
 
 ## Installation
 
